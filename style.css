@@ -1,0 +1,21 @@
+body {
+    font-family: Orbitron, serif;
+    background-color: #27293B;
+    max-width: 600px;
+    margin: 40px auto;
+    font-size: 20px;
+}
+
+.question {
+    background-color: #FFFAB8;
+    padding: 30px;
+    cursor: pointer;
+    border: 2px solid #FF8585;
+    border-radius: 25px;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #FF8585;
+    border-radius: 25px;
+}
